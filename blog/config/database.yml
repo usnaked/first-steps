@@ -10,7 +10,7 @@ development:
   timeout: 5000
   username: rails
   password: devrails
-  host: 192.168.1.104
+  host: 10.10.2.196
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
