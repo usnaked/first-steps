@@ -11,6 +11,7 @@ development:
   username: rails
   password: devrails
   host: 10.10.2.196
+#  host: 192.168.1.104
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
